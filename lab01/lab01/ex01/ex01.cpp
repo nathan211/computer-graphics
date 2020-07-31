@@ -15,7 +15,7 @@ void display()
 {
 	glClear(GL_COLOR_BUFFER_BIT);
 	glColor3f(1.0, 1.0, 1.0);
-	glPointSize(5.0);
+	glPointSize(10.0);
 
 	glBegin(GL_POINTS);
 	glVertex3f(200.0, 120.0, 0.0);

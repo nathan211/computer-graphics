@@ -1,0 +1,2 @@
+﻿  ex03.cpp
+LINK : fatal error LNK1104: cannot open file 'freeglut.lib'

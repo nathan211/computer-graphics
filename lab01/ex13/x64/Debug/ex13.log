@@ -1,0 +1,15 @@
+﻿ex13.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+ex13.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+ex13.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+ex13.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+ex13.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl spinDisplay(void)" (?spinDisplay@@YAXXZ)
+ex13.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+ex13.obj : error LNK2019: unresolved external symbol __imp_glutIdleFunc referenced in function "void __cdecl mouse(int,int,int,int)" (?mouse@@YAXHHHH@Z)
+ex13.obj : error LNK2019: unresolved external symbol __imp_glutReshapeFunc referenced in function main
+ex13.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+ex13.obj : error LNK2019: unresolved external symbol __imp_glutMouseFunc referenced in function main
+ex13.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+ex13.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+D:\computer graphics\lab01\lab01\Dependencies\glew\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\computer graphics\lab01\lab01\Dependencies\freeglut\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\computer graphics\lab01\x64\Debug\ex13.exe : fatal error LNK1120: 12 unresolved externals

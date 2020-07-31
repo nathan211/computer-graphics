@@ -1,0 +1,4 @@
+﻿  ex13.cpp
+D:\computer graphics\lab01\ex13\ex13.cpp(27,14): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\computer graphics\lab01\ex13\ex13.cpp(29,15): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  ex13.vcxproj -> D:\computer graphics\lab01\Debug\ex13.exe

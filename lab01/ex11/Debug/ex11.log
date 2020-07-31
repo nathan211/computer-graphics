@@ -1,0 +1,3 @@
+﻿  ex11.cpp
+D:\computer graphics\lab01\ex11\ex11.cpp(19,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  ex11.vcxproj -> D:\computer graphics\lab01\Debug\ex11.exe
