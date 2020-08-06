@@ -1,0 +1,7 @@
+﻿  entities.cpp
+  game.cpp
+D:\ComputerGraphics\lab03\ex02\game.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  global.cpp
+  snake.cpp
+  Generating Code...
+  ex02.vcxproj -> D:\ComputerGraphics\lab03\Debug\ex02.exe

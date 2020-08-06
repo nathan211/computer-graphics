@@ -1,0 +1,9 @@
+﻿  lab02.cpp
+D:\ComputerGraphics\lab02\lab02\lab02.cpp(44,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\lab02\lab02\lab02.cpp(44,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\lab02\lab02\lab02.cpp(79,18): warning C4552: '-': result of expression not used
+D:\ComputerGraphics\lab02\lab02\lab02.cpp(90,27): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\lab02\lab02\lab02.cpp(91,28): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\lab02\lab02\lab02.cpp(92,29): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\lab02\lab02\lab02.cpp(93,26): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+  lab02.vcxproj -> D:\ComputerGraphics\lab02\Debug\lab02.exe

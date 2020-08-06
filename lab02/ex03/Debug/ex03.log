@@ -1,0 +1,12 @@
+﻿  ex03.cpp
+D:\ComputerGraphics\lab02\ex03\ex03.cpp(164,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ComputerGraphics\lab02\ex03\ex03.cpp(166,54): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\lab02\ex03\ex03.cpp(167,55): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\lab02\ex03\ex03.cpp(171,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ComputerGraphics\lab02\ex03\ex03.cpp(173,54): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\lab02\ex03\ex03.cpp(174,55): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\lab02\ex03\ex03.cpp(180,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ComputerGraphics\lab02\ex03\ex03.cpp(182,54): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\lab02\ex03\ex03.cpp(183,55): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\lab02\ex03\ex03.cpp(253,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ex03.vcxproj -> D:\ComputerGraphics\lab02\Debug\ex03.exe

@@ -1,0 +1,3 @@
+﻿  ex04.cpp
+D:\ComputerGraphics\lab02\ex04\ex04.cpp(47,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ex04.vcxproj -> D:\ComputerGraphics\lab02\Debug\ex04.exe
