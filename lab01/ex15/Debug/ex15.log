@@ -1,3 +1,1 @@
-﻿  ex15.cpp
-D:\computer graphics\lab01\ex15\ex15.cpp(27,39): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-  ex15.vcxproj -> D:\computer graphics\lab01\Debug\ex15.exe
+﻿  ex15.vcxproj -> D:\ComputerGraphics\lab01\Debug\ex15.exe

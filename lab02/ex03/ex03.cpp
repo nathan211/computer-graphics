@@ -53,6 +53,8 @@ void displayFunc(void) {
 	glLoadIdentity();
 	gluPerspective(50.0, 1.33, 1.0, 100000.0);
 
+	glMatrixMode(GL_MODELVIEW);
+	glLoadIdentity();
 	glEnable(GL_LIGHTING);
 	glEnable(GL_LIGHT0);
 

@@ -15,7 +15,20 @@ void init(void)
 void display()
 {
 	glClear(GL_COLOR_BUFFER_BIT);
-	glColor3f(1.0, 1.0, 1.0);
+	glPolygonMode(GL_FRONT_AND_BACK, GL_FILL);
+	glColor3f(0.0, 1.0, 0.0);
+	//glClearColor(1.0, 1.0, 1.0, 1.0);
+
+	glBegin(GL_TRIANGLES);
+	glVertex2i(160, 80);
+	glVertex2i(480, 80);
+	glVertex2i(320, 400);
+	glEnd();
+
+	glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
+	glColor3f(1.0, 0.0, 0.0);
+	//glClearColor(1.0, 1.0, 1.0, 1.0);
+	glLineWidth(5.0);
 
 	glBegin(GL_TRIANGLES);
 	glVertex2i(160, 80);

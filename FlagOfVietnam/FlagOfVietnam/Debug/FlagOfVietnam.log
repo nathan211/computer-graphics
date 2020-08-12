@@ -1,0 +1,4 @@
+﻿  FlagOfVietnam.cpp
+D:\ComputerGraphics\FlagOfVietnam\FlagOfVietnam\FlagOfVietnam.cpp(41,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\FlagOfVietnam\FlagOfVietnam\FlagOfVietnam.cpp(42,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FlagOfVietnam.vcxproj -> D:\ComputerGraphics\FlagOfVietnam\Debug\FlagOfVietnam.exe

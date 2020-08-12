@@ -5,11 +5,11 @@
 
 char title[] = "Bouncing Ball (2D)";
 const int windowWidth = 640;
-const int windowHeight = 480;
+const int windowHeight = 641;
 const int windowPosX = 50;
 const int windowPosY = 50;
 
-GLfloat ballRadius = 0.5f;
+GLfloat ballRadius = 0.2f;
 GLfloat ballX = 0.0f;
 GLfloat ballY = 0.0f;
 GLfloat ballXMax, ballXMin, ballYMax, ballYMin;
