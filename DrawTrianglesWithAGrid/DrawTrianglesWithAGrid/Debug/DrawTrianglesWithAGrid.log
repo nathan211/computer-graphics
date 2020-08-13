@@ -1,0 +1,7 @@
+﻿  DrawTrianglesWithAGrid.cpp
+D:\ComputerGraphics\DrawTrianglesWithAGrid\DrawTrianglesWithAGrid\DrawTrianglesWithAGrid.cpp(6,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\DrawTrianglesWithAGrid\DrawTrianglesWithAGrid\DrawTrianglesWithAGrid.cpp(9,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\DrawTrianglesWithAGrid\DrawTrianglesWithAGrid\DrawTrianglesWithAGrid.cpp(10,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\DrawTrianglesWithAGrid\DrawTrianglesWithAGrid\DrawTrianglesWithAGrid.cpp(13,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\DrawTrianglesWithAGrid\DrawTrianglesWithAGrid\DrawTrianglesWithAGrid.cpp(14,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  DrawTrianglesWithAGrid.vcxproj -> D:\ComputerGraphics\DrawTrianglesWithAGrid\Debug\DrawTrianglesWithAGrid.exe

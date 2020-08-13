@@ -1,0 +1,12 @@
+﻿  DrawOrbit.cpp
+D:\ComputerGraphics\DrawOrbit\DrawOrbit\DrawOrbit.cpp(12,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\DrawOrbit\DrawOrbit\DrawOrbit.cpp(17,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\DrawOrbit\DrawOrbit\DrawOrbit.cpp(18,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\DrawOrbit\DrawOrbit\DrawOrbit.cpp(22,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\DrawOrbit\DrawOrbit\DrawOrbit.cpp(23,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\DrawOrbit\DrawOrbit\DrawOrbit.cpp(36,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ComputerGraphics\DrawOrbit\DrawOrbit\DrawOrbit.cpp(45,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\DrawOrbit\DrawOrbit\DrawOrbit.cpp(46,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\DrawOrbit\DrawOrbit\DrawOrbit.cpp(47,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\DrawOrbit\DrawOrbit\DrawOrbit.cpp(48,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  DrawOrbit.vcxproj -> D:\ComputerGraphics\DrawOrbit\Debug\DrawOrbit.exe
