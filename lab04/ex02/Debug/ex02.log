@@ -1,0 +1,11 @@
+﻿  ex02.cpp
+D:\ComputerGraphics\lab04\ex02\ex02.cpp(57,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex02\ex02.cpp(62,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\lab04\ex02\ex02.cpp(62,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\lab04\ex02\ex02.cpp(63,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\lab04\ex02\ex02.cpp(63,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\lab04\ex02\ex02.cpp(64,47): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\lab04\ex02\ex02.cpp(64,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\lab04\ex02\ex02.cpp(65,45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\lab04\ex02\ex02.cpp(65,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  ex02.vcxproj -> D:\ComputerGraphics\lab04\Debug\ex02.exe

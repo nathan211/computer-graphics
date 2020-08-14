@@ -1,0 +1,27 @@
+﻿  ex03.cpp
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(156,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(157,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(165,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(175,60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(183,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(191,78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(199,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(207,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(215,54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(315,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(318,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(335,74): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(358,58): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(361,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(367,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(370,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(376,71): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(391,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(405,58): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(431,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(435,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(453,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(454,17): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(455,17): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\lab04\ex03\ex03.cpp(456,17): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+  ex03.vcxproj -> D:\ComputerGraphics\lab04\Debug\ex03.exe
