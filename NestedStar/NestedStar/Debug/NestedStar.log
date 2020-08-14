@@ -1,0 +1,9 @@
+﻿  NestedStar.cpp
+D:\ComputerGraphics\NestedStar\NestedStar\NestedStar.cpp(33,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\NestedStar\NestedStar\NestedStar.cpp(38,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\NestedStar\NestedStar\NestedStar.cpp(39,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\NestedStar\NestedStar\NestedStar.cpp(43,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\NestedStar\NestedStar\NestedStar.cpp(44,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\NestedStar\NestedStar\NestedStar.cpp(52,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\NestedStar\NestedStar\NestedStar.cpp(53,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  NestedStar.vcxproj -> D:\ComputerGraphics\NestedStar\Debug\NestedStar.exe
