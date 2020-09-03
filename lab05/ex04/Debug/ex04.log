@@ -1,0 +1,8 @@
+﻿  ex04.cpp
+D:\ComputerGraphics\lab05\ex04\ex04.cpp(73,46): warning C4305: '+=': truncation from 'double' to 'float'
+D:\ComputerGraphics\lab05\ex04\ex04.cpp(74,47): warning C4305: '-=': truncation from 'double' to 'float'
+D:\ComputerGraphics\lab05\ex04\ex04.cpp(75,46): warning C4305: '+=': truncation from 'double' to 'float'
+D:\ComputerGraphics\lab05\ex04\ex04.cpp(76,47): warning C4305: '-=': truncation from 'double' to 'float'
+D:\ComputerGraphics\lab05\ex04\ex04.cpp(77,46): warning C4305: '+=': truncation from 'double' to 'float'
+D:\ComputerGraphics\lab05\ex04\ex04.cpp(78,47): warning C4305: '-=': truncation from 'double' to 'float'
+  ex04.vcxproj -> D:\ComputerGraphics\lab05\Debug\ex04.exe

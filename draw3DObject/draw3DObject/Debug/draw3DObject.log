@@ -1,0 +1,7 @@
+﻿  draw3DObject.cpp
+D:\ComputerGraphics\draw3DObject\draw3DObject\draw3DObject.cpp(6,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\ComputerGraphics\draw3DObject\draw3DObject\draw3DObject.cpp(9,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\draw3DObject\draw3DObject\draw3DObject.cpp(10,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\draw3DObject\draw3DObject\draw3DObject.cpp(13,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\draw3DObject\draw3DObject\draw3DObject.cpp(14,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  draw3DObject.vcxproj -> D:\ComputerGraphics\draw3DObject\Debug\draw3DObject.exe

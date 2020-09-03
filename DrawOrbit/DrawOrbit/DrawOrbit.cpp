@@ -38,6 +38,7 @@ void display() {
 	float xEarth, yEarth;
 	float xVenus, yVenus;
 	float angleEarth = 90, angleVenus = 90;
+
 	glBegin(GL_LINES);
 	for (int i = 0; i <= (360.0 / angleEarthInc) * 10; i++) {
 		angleEarth -= angleEarthInc;

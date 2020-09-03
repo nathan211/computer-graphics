@@ -110,10 +110,7 @@ void display() {
 
 	glColor3f(0, 0, 0);
 
-	/*for (int i = 0; i < ARCDIV * 5; i++) {
-		drawPoint(circleArr[i]);
-	}*/
-
+	
 	for (int i = 0; i < 5; i++) {
 		for (int j = 0; j < ARCDIV; j++) {
 			drawPoint(arcArr[i][j]);

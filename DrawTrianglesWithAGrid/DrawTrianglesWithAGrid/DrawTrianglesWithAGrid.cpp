@@ -1,4 +1,3 @@
-//#include "..\..\Dependencies\glew\glew.h"
 #include "..\..\Dependencies\freeglut\freeglut.h"
 #include <Windows.h>
 
@@ -43,7 +42,6 @@ void drawGreenBlock(float x, float y) {
 	glVertex2f(x + 2, y);
 	glVertex2f(x + 2, y + 1);
 	glVertex2f(x, y + 1);
-
 	glVertex2f(x, y + 1);
 	glVertex2f(x + 5, y + 1);
 	glVertex2f(x + 5, y + 2);
@@ -61,7 +59,6 @@ void drawLightBlueBlock(float x, float y) {
 	glVertex2f(x + 5, y);
 	glVertex2f(x + 5, y + 1);
 	glVertex2f(x, y + 1);
-
 	glVertex2f(x + 2, y + 1);
 	glVertex2f(x + 5, y + 1);
 	glVertex2f(x + 5, y + 2);

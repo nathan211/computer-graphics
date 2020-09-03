@@ -1,0 +1,10 @@
+﻿  ex05.cpp
+D:\ComputerGraphics\lab05\ex05\ex05.cpp(73,46): warning C4305: '+=': truncation from 'double' to 'float'
+D:\ComputerGraphics\lab05\ex05\ex05.cpp(74,47): warning C4305: '-=': truncation from 'double' to 'float'
+D:\ComputerGraphics\lab05\ex05\ex05.cpp(75,46): warning C4305: '+=': truncation from 'double' to 'float'
+D:\ComputerGraphics\lab05\ex05\ex05.cpp(76,47): warning C4305: '-=': truncation from 'double' to 'float'
+D:\ComputerGraphics\lab05\ex05\ex05.cpp(77,46): warning C4305: '+=': truncation from 'double' to 'float'
+D:\ComputerGraphics\lab05\ex05\ex05.cpp(78,47): warning C4305: '-=': truncation from 'double' to 'float'
+  shader.cpp
+  Generating Code...
+  ex05.vcxproj -> D:\ComputerGraphics\lab05\Debug\ex05.exe

@@ -1,5 +1,4 @@
 ﻿  TheSierpinskiTriangle.cpp
-D:\ComputerGraphics\TheSierpinskiTriangle\TheSierpinskiTriangle\TheSierpinskiTriangle.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\ComputerGraphics\TheSierpinskiTriangle\TheSierpinskiTriangle\TheSierpinskiTriangle.cpp(27,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\ComputerGraphics\TheSierpinskiTriangle\TheSierpinskiTriangle\TheSierpinskiTriangle.cpp(28,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\TheSierpinskiTriangle\TheSierpinskiTriangle\TheSierpinskiTriangle.cpp(24,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\ComputerGraphics\TheSierpinskiTriangle\TheSierpinskiTriangle\TheSierpinskiTriangle.cpp(25,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
   TheSierpinskiTriangle.vcxproj -> D:\ComputerGraphics\TheSierpinskiTriangle\Debug\TheSierpinskiTriangle.exe
