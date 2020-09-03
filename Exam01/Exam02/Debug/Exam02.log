@@ -1,0 +1,4 @@
+﻿  Exam02.cpp
+D:\ComputerGraphics\Exam01\Exam02\Exam02.cpp(53,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ComputerGraphics\Exam01\Exam02\Exam02.cpp(55,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Exam02.vcxproj -> D:\ComputerGraphics\Exam01\Debug\Exam02.exe
